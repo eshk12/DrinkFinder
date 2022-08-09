@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DrinkFinder/static/css/main.8c813df6.css",
+    "main.js": "/DrinkFinder/static/js/main.67f85a3d.js",
+    "static/js/787.3f6b3fb0.chunk.js": "/DrinkFinder/static/js/787.3f6b3fb0.chunk.js",
+    "index.html": "/DrinkFinder/index.html",
+    "main.8c813df6.css.map": "/DrinkFinder/static/css/main.8c813df6.css.map",
+    "main.67f85a3d.js.map": "/DrinkFinder/static/js/main.67f85a3d.js.map",
+    "787.3f6b3fb0.chunk.js.map": "/DrinkFinder/static/js/787.3f6b3fb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c813df6.css",
+    "static/js/main.67f85a3d.js"
+  ]
+}
