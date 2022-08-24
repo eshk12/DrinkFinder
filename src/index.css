@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.border{
+  border: solid 1px black;
+}
+
+.cocktail-image{
+  border-radius: 5px;
+}
+
+.cocktail-item{
+  cursor: pointer;
+}
+.list-group-item.cocktail-item:hover{
+  background-color: #EBEBEB;
+}
